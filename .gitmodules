@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rPACI"]
+	path = rPACI
+	url = https://github.com/dariorlual/rpaci
+	shallow = true
+	registered = true
